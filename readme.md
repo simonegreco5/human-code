@@ -59,18 +59,20 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
       - Apro Amazon.
 
 <!-- SCELTA REGALO -->
-+ Scelgo il regalo 
++ Scelta del regalo 
+
+    + Lista dei REQUISITI del regalo TUTTI da soddisfare:
+      1. il prezzo non deve superare il **budget** stabilito
+      2. la data di consegna non deve andare oltre il **28 febbrario 2026**
+      -  SE il regalo non soddisfa anche solo uno dei due requisiti, scartalo senza controllare il secondo requisito e passa al prossimo elemento della lista.
+     
 
     + Nella lista dei regali per Silvia ci sono:
       1. lampada
       2. penna stilografica
       3. libro classico (condizione: rientra nel **budget** stabilito, arriva prima del **28 febbraio 2026**)
 
-    + La scelta del disposiutivo segue l'ordine della lista (regali)
-    + Il regalo deve soddisfare entrambi i seguenti requisiti:
-      - il prezzo non deve superare il budget
-      - la data di consegna non deve essere oltre il 28 febbrario 2026
-      - SE il regalo non soddisfa anche solo uno dei due requisiti, scartalo senza controllare il secondo requisito e passa al prossimo regalo della lista. 
+    + La scelta del dispositivo segue l'ordine della lista (regali) 
       
     <!-- lampada -->
     + Apro la pagina della lampada
@@ -99,7 +101,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
         - scarta il regalo e passa al prossimo elemento della lista (libro)
 
     <!-- libro -->
-    + Apreo la pagina del libro 
+    + Apro la pagina del libro 
 
       - scelgo il libro come regalo.
 
