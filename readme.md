@@ -1,0 +1,113 @@
+Nome repo: **human-code**
+
+In questo file trovate una lista degli esercizi da svolgere:
+https://docs.google.com/document/d/1vbartx0ar-hSIMMsXG_xnNQk0VTcEVEuEQUVrJM-iGc/edit?usp=sharing
+
+Ciascuno di voi dovrà fare brainstorming per analizzare e scomporre il problema scelto e produrre dello pseudo codice nel file readme come visto in classe. Basta selezionare e svolgere uno dei problemi proposti, non tutti ma se avete tempo e' ok se ne fate di piu.
+
+Una volta raggiunto un risultato soddisfacente pushate. 
+
+
+Buon divertimento e confermate lettura come al solito :babyyoda: 
+
+
+Note: per ora non importa se il risultato non e' perfetto, ci sara' modo di migliorare nella scrittura del flusso di esecuzione degli script man mano che facciamo pratica con la programmazione.
+
+
+**ESECUZIONE REPO human-code**
+
+5. COMPRARE QUALCOSA SU AMAZON 
+   Il regalo perfetto
+
+Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
+
+
+<!-- BUDGET -->
++ Stabilisco un **budget** 
+  - il budget stabilito è di 30 euro
+
+<!--  SCELTA DISPOSITIVO -->
++ Scelgo il dispositivo per aprire Amazon 
+
+    + Nella lista dei dispositivi disponibili ci sono:
+      1.  telefono 
+      2.  tablet
+      3.  computer (condizione: non può essere scarico)
+
+    + La scelta del dispositivo segue l'ordine della lista (dispositivi)
+    + Controllo lo stato di carica dei dispositivi
+
+    <!-- telefono -->
+    + Prendo il telefono
+      + SE il telefono è carico
+        - Apro Amazon.
+
+      + SE il telefono è scarico
+        - passo al dispositivo successivo (tablet) 
+
+    <!-- tablet -->
+    + Prendo il tablet
+
+      + SE il tablet è carico 
+        - Apro Amazon.
+
+      + SE il tablet è scarico
+        - passo al dispositivo successivo (computer)
+
+    <!-- computer -->
+    + Prendo il computer
+      - Apro Amazon.
+
+<!-- SCELTA REGALO -->
++ Scelgo il regalo 
+
+    + Nella lista dei regali per Silvia ci sono:
+      1. lampada
+      2. penna stilografica
+      3. libro classico (condizione: rientra nel **budget** stabilito, arriva prima del **28 febbraio 2026**)
+
+    + La scelta del disposiutivo segue l'ordine della lista (regali)
+    + Il regalo deve soddisfare entrambi i seguenti requisiti:
+      - il prezzo non deve superare il budget
+      - la data di consegna non deve essere oltre il 28 febbrario 2026
+      - SE il regalo non soddisfa anche solo uno dei due requisiti, scartalo senza controllare il secondo requisito e passa al prossimo regalo della lista. 
+      
+    <!-- lampada -->
+    + Apro la pagina della lampada
+
+      + SE rientra nel budget
+        - controllo il secondo requisito 
+      + SE non rientra nel budget
+        - scarta il regalo e passa al prossimo elemento della lista (penna stilografica)
+
+      + SE arriva prima del 28 febbraio 2026
+        - scelgo la lampada come regalo.
+      + SE non arriva prima del 28 febbrario 2026
+        - scarta il regalo e passa al prossimo elemento della lista (penna stilografica)
+
+    <!-- penna stilografica -->
+    + Apro la pagina della penna stilografica
+
+      + SE rientra nel budget
+        - controllo il secondo requisito 
+      + SE non rientra nel budget
+        - scarta il regalo e passa al prossimo elemento della lista (libro)
+
+      + SE arriva prima del 28 febbraio 2026
+        - scelgo la penna stilografica come regalo.
+      + SE non arriva prima del 28 febbrario 2026
+        - scarta il regalo e passa al prossimo elemento della lista (libro)
+
+    <!-- libro -->
+    + Apreo la pagina del libro 
+
+      - scelgo il libro come regalo.
+
+        
+      
+
+
+  
+
+
+    
