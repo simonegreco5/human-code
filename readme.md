@@ -59,15 +59,13 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
     + **Lista requisiti** del regalo **tutti da soddisfare**:
       1. il prezzo non deve superare il **budget** stabilito
       2. la data di consegna non deve andare oltre il **28 febbrario 2026**
-      -  SE il regalo non soddisfa anche solo un requisito della **lista requisiti**, scartalo senza controllare il secondo e passa al prossimo elemento della lista.
      
-
     + Nella **lista regali** per Silvia ci sono:
       1. lampada
       2. penna stilografica
       3. libro classico (condizione: rientra nel **budget** stabilito, arriva prima del **28 febbraio 2026**)
 
-    + Scorro la **lista regali** FINTATO CHE non trovo un regalo che rispetta i requisiti
+    + Scorro la **lista regali** FINTATO CHE non trovo un regalo che rispetta tutti i requisiti
       
     <!-- lampada -->
     + Apro la pagina della lampada
